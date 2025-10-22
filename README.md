@@ -112,7 +112,7 @@ A2: I’d focus on scheduling, reminders, and progress tracking.
 
 **Samiullah Syed Hussain**  
 AI & Product Enthusiast | ML Developer | Blockchain Explorer  
-💼 [LinkedIn](https://linkedin.com/in/samiullahsyedhussain) • ✍️ [Hashnode](https://[hashnode.com/@thethinkforge])
+💼 [LinkedIn](https://linkedin.com/in/samiullahsyedhussain) • ✍️ [Hashnode](https://hashnode.com/@thethinkforge)
 
 **Sriniketh Jeevangi**  
 Tech & AI Enthusiast | React & MERN Stack | Full Stack Developer  
