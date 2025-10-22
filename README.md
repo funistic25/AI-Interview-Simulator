@@ -114,6 +114,10 @@ A2: I’d focus on scheduling, reminders, and progress tracking.
 AI & Product Enthusiast | ML Developer | Blockchain Explorer  
 💼 [LinkedIn](https://linkedin.com/in/samiullahsyedhussain) • ✍️ [Hashnode](https://hashnode.com/@your-handle)
 
+**Sriniketh Jeevangi**  
+Tech & AI Enthusiast | React & MERN Stack | Full Stack Developer  
+💼 [LinkedIn](https://linkedin.com/in/srinikethjeevangi)
+
 ---
 
 ## 📜 License
