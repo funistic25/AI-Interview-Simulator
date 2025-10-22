@@ -10,10 +10,10 @@ import numpy as np
 # ---------------------------
 # Initialize Google Cloud clients & Gemini
 # ---------------------------
-GOOGLE_CREDENTIALS_PATH = r"C:\Users\ADMIN\Downloads\prac-470609-b7bce4bef7ad.json"
+GOOGLE_CREDENTIALS_PATH = r"path/to/your/google_credentials.json"
 
 # Your Gemini API key (replace the placeholder with your actual key)
-GEMINI_API_KEY = "AIzaSyDVk0CUEdm22_DRhA8k6QPyautlm52DMB0"
+GEMINI_API_KEY = "your_api_key_here"
 
 # Set environment variables programmatically
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = GOOGLE_CREDENTIALS_PATH
@@ -261,3 +261,4 @@ while question_count < max_questions:
     save_subtitle(subtitle_file, answer_text, start_time=0, duration=10)
 
 print("\nInterview completed. All questions and answers saved.")
+
