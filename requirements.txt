@@ -1,0 +1,6 @@
+google-cloud-texttospeech
+google-cloud-speech
+google-genai
+sounddevice
+soundfile
+playsound
